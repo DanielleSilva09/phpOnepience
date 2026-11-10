@@ -8,7 +8,7 @@
         case 'inicio': 
              $controler->inicio(); break;
         case 'piratas':
-            $controler-> Listar(); break;
+            $controler-> listar(); break;
         case 'detalhe': die('detalhe'); break;
         default: http_response_code(404); die('Pagina não encontrado!!!');
     }
