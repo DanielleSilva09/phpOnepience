@@ -16,6 +16,8 @@ class PirataControler{
 
         $piratas = $this->dados();
 
+        $pesquisa = '';
+
       require __DIR__ . '/../../public/views/piratas.php';
     }
 }
