@@ -1,0 +1,1 @@
+</main><footer>Grand Line Explorer · Projeto pedagógico PHP MVC · Fase 1</footer></body></html>
